@@ -1,4 +1,4 @@
-// CHALLENGE #4
+// CHALLENGE #4.
 // Let's improve Steven's tip calculator even more, this time using loops!
 
 // Your tasks:
