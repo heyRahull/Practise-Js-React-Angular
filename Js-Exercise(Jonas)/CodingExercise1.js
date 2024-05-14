@@ -7,7 +7,7 @@
 
 // Calculate both their BMIs using the formula, and store the results in two variables called BMIMark and BMIJohn.
 
-// Log the value of BMIMark and BMIJohn to the console.
+// Log the value of BMIMark and BMIJohn to the console..
 
 // BONUS: Create a boolean variable markHigherBMI containing information about whether Mark has a higher BMI than John. Log it to the console too
 
