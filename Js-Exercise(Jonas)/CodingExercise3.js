@@ -1,7 +1,7 @@
 // CHALLENGE #3
 // There are two gymnastics teams: Dolphins and Koalas. They compete against each other 3 times. The winner with the highest average score wins a trophy!
 
-// Your tasks:
+// Your tasks :
 
 // 1. Calculate the average score for each team, using the test data included below. The average score for Dolphins should be assigned to the scoreDolphins variable, and the average score of Koalas should be assigned to the scoreKoalas variable.
 
