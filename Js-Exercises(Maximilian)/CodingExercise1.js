@@ -1,4 +1,4 @@
-// Exercise: Variables & Operators
+//// Exercise: Variables & Operators
 // To practice what you learned, complete the following task:
 
 // Create two variable or constants, a and b, that should store the values 5 and 3 respectively. Thereafter, also add a third variable or constant, sum, that stores the sum of a and b.
