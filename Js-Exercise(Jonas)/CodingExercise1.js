@@ -11,7 +11,7 @@
 
 // BONUS- Creat a boolean variable markHigherBMI containing information about whether Mark has a higher BMI than John. Log it to the console too
 
-// TEST DATA 1: Marks weighs 78 kg and is 1.69 m tall. John weighs 92 kg and is 1.95 m tall.
+// TEST DATA 1 : Marks weighs 78 kg and is 1.69 m tall. John weighs 92 kg and is 1.95 m tall.
 
 // TEST DATA 2: Marks weights 95 kg and is 1.88 m tall. John weights 85 kg and is 1.76 m tall.
 
